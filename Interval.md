@@ -1,0 +1,1 @@
+Interval ist a creation operator von RXJS und es erzeugt alle n Millisekunden einen neuen Wert, wobei n der Parameter von Interval ist.
