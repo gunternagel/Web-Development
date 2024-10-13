@@ -1,0 +1,1 @@
+Wenn man Build-Probleme im Frontend hat und es im Schritt Publish scheitert, hilft es, wenn man die Version hoch zählt.

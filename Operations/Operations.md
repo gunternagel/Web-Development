@@ -1,0 +1,12 @@
+Notwendige Checklisten:
+- Deployment (nach PROD)  (vorhanden)
+- Consumer-Lag-Beseitigung   (teilweise vorhanden)
+- Prüfung der App
+	- Anzahl der Routen (2)
+		- Wie wird die Route wieder hergestellt?
+	- Welche Services müssen vorhanden sein? (Hier wird eine Liste der Services benötigt, die eine App abonniert hat)
+		- Wie wird ein Service wieder hergestellt?
+- API ist nicht mehr im API-Management abonniert
+	- Wie kann man eine API wieder abonnieren? Dazu wird pro Service das Wisse  benötigt, welche APIs abonniert sind.
+- API im API-Management bekannt machen
+- Datenbank-Backup einspielen

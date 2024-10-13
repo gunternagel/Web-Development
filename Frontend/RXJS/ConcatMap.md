@@ -1,0 +1,1 @@
+Der pipeable Operator concatMap ist ein Operator.

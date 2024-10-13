@@ -1,10 +1,14 @@
 Das Backend kann in Sprachen wie JAVA oder C# implementiert werden
 
 Interessante Sprachen:
-- JAVA
+- [[JAVA]]
 - C#
 - SQL
 
 Verwendete Frameworks:
-- Spring / Spring Boot
+- [[Spring]] / [[Spring Boot]]
 - .NET
+
+Weitere Themen
+- [[Kafka]]
+- 

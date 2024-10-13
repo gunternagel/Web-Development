@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "27f5c6deaf9d5502",
+    "type": "split",
+    "children": [
+      {
+        "id": "8935b7e36cbab902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f56e9a31fd9f745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b9b818373b0a2d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "21f182d9e613f7a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e01d0ba3276940",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64ec7c0f96dd1e3a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "effc95cf86e40009",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b9cbfddf5b2b20c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3728a58f7466c3da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c1368d69bc9854e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-03-16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d757a81d12c9a027",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-03-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f59952eee4c747d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b84016563c9367e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-03-16.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0f56e9a31fd9f745",
+  "lastOpenFiles": [
+    "CSS.md",
+    "Operators.md",
+    "Responsive Design.md",
+    "RXJS.md",
+    "Pipeable Operators.md",
+    "Pasted image 20240329173944.png",
+    "Pasted image 20240328132350.png",
+    "Pasted image 20240328120232.png",
+    "TypeScript.md",
+    "1. Web-Development.md",
+    "Backend.md",
+    "Angular.md",
+    "Pipe.md",
+    "Interval.md",
+    "Higher Order Functions.md",
+    "Service.md",
+    "Producer.md",
+    "Creation Operators.md",
+    "Frontend.md",
+    "JavaScript.md",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

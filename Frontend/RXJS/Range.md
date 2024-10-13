@@ -1,0 +1,2 @@
+Der pipeable Operator `range` dient zum Erzeugen eines Arrays mit einem Wertebereich zwischen Anfangswert und Endwert mit einer Erhöhung um Schritte mit dem Wert '1'. Range erwartet als Parameter den Anfangswert und den Endwert des Wertebereichs, wobei die Rückgabe immer vom Anfangswert bis zum Endwert - 1 läuft. Man muss also den Endwert um einen Schritt erhöhen, um die erwartete Menge zu erhalten.
+

@@ -1,0 +1,2 @@
+ConCat ist ein Pipeable Operator, welcher ein higher-order Observable in einen first-order Observable verwandelt, 
+wobei ConCat zuerst den kompletten Stream1 zurück gibt, dann den Stream2 ... und schließlich den Stream_n zurück gibt.

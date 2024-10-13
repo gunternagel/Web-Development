@@ -1,0 +1,1 @@
+Der pipeable Operator debounceTime verzögert eine Verarbeitung um die Anzahl an Millisekunden, die im Parameter übergeben werden.

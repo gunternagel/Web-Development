@@ -1,1 +1,0 @@
-Angular ist ein Framework zur Erstellung von Webseiten basierend auf CSS, HTML und TypeScript. Es ermöglicht Oberflächen-Controls als [[Control]]-Klassen und Services als [[Service]]-Klassen zu erstellen. 

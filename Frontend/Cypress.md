@@ -1,0 +1,1 @@
+Cypress ist Toolsammlung für die Erstellung von Oberflächentests.

@@ -1,0 +1,2 @@
+Take ist ein pipeable Operator, mit welchem man die Anzahl der Werte festlegt, bis das Lesen aus dem Stream abgebrochen wird - egal ob noch weitere Werte folgen und welche Wertigkeit die einzelnen Werte haben.
+Die Anzahl der Werte werden über den Parameter von `take` festgelegt. 

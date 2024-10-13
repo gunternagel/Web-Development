@@ -1,0 +1,1 @@
+Der pipeable Operator takeLast dient dazu, den letzten Wert eines Observables zu nehmen und alle anderen zu überspringen.

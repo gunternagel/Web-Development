@@ -1,0 +1,1 @@
+Der pipeable Operator skipLast ermöglicht das Ignorieren von X letzten Werten. Als Parameter erwartet der skipLast Operator die Anzahl der zu ignorierenden Werte.

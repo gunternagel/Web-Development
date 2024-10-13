@@ -1,0 +1,1 @@
+Der pipeable Operator connect ermöglicht es zwischen einem Observable und dem Observer noch weitere eigene Subjects mit eigener Logik zwischen Observable und Observer zu klinken.

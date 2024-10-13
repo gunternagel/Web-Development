@@ -1,0 +1,1 @@
+Pact-Tests dienen zum Testen einer meist fremden REST-API auf deren Spezifikation.
